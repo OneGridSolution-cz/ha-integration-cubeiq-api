@@ -1,0 +1,11 @@
+{
+  "codeowners": ["aleho70"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/OneGridSolution-cz/ha-integration-cubeiq-api",
+  "domain": "cubeiq_api",
+  "iot_class": "cloud_polling",
+  "name": "CubeIQ API Integration",
+  "requirements": [],
+  "version": "1.0.0"
+}
